@@ -1,0 +1,1 @@
+# Geomechanics_Stresses_around_Wellbore
